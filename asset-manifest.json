@@ -1,16 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.fe927caf.css",
-    "main.js": "/static/js/main.9978f9ae.js",
+    "main.js": "/static/js/main.3c0d5c7b.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/IMG_7490.jpg": "/static/media/IMG_7490.073ca63250cfc2be09e2.jpg",
+    "static/media/jenkins.png": "/static/media/jenkins.a2cb8601bb84c0c77664.png",
+    "static/media/ghactions.png": "/static/media/ghactions.b323392dee7ce1fcdd11.png",
+    "static/media/terraform.png": "/static/media/terraform.5fcb4a673e104a97c176.png",
+    "static/media/haproxy.png": "/static/media/haproxy.906b0d0a1baf244ad2d1.png",
+    "static/media/helm-icon-color.png": "/static/media/helm-icon-color.75785e722d3be5c36023.png",
+    "static/media/mysql.png": "/static/media/mysql.e63e83ee196aa0ca6ab5.png",
+    "static/media/dynatrace.png": "/static/media/dynatrace.69e5733d627b2fbc1bc8.png",
+    "static/media/kubernetes-icon-color.png": "/static/media/kubernetes-icon-color.adf419cd049edcb768e3.png",
     "index.html": "/index.html",
     "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
-    "main.9978f9ae.js.map": "/static/js/main.9978f9ae.js.map",
+    "main.3c0d5c7b.js.map": "/static/js/main.3c0d5c7b.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.9978f9ae.js"
+    "static/js/main.3c0d5c7b.js"
   ]
 }
