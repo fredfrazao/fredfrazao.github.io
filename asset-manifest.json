@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e9d157d3.css",
-    "main.js": "/static/js/main.97bd1aaf.js",
+    "main.js": "/static/js/main.8bb0e25c.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/IMG_7490.jpg": "/static/media/IMG_7490.073ca63250cfc2be09e2.jpg",
     "static/media/jenkins.png": "/static/media/jenkins.a2cb8601bb84c0c77664.png",
@@ -14,11 +14,11 @@
     "static/media/kubernetes-icon-color.png": "/static/media/kubernetes-icon-color.adf419cd049edcb768e3.png",
     "index.html": "/index.html",
     "main.e9d157d3.css.map": "/static/css/main.e9d157d3.css.map",
-    "main.97bd1aaf.js.map": "/static/js/main.97bd1aaf.js.map",
+    "main.8bb0e25c.js.map": "/static/js/main.8bb0e25c.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9d157d3.css",
-    "static/js/main.97bd1aaf.js"
+    "static/js/main.8bb0e25c.js"
   ]
 }
